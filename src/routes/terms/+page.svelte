@@ -48,7 +48,7 @@
 
     <main>
         <!-- UPDATE THIS WHEN MAKING CONTENT CHANGES -->
-        <p><i>Updated June, 6th 2025 AEST</i></p>
+        <p><i>Updated June, 6th 2025 EST</i></p>
 
         <!-- some things are intentionally not formatted as they are in the HTML file on the website -->
         <p>

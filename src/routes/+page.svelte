@@ -256,6 +256,13 @@
         backColor={"red"}
         textColor={"white"}
     />
+    <Alert
+        onlyShowID={"downtime:_3"}
+        text={"The terms of service have been updated, please read through it again!"}
+        textBreakup={true}
+        backColor={"Yellow"}
+        textColor={"white"}
+    />
 
     {#if loggedIn === false}
         <div class="section-info">
