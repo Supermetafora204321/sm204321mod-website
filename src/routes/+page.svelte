@@ -261,7 +261,7 @@
         text={"The terms of service have been updated, please read through it again!"}
         textBreakup={true}
         backColor={"Yellow"}
-        textColor={"white"}
+        textColor={"black"}
     />
 
     {#if loggedIn === false}
