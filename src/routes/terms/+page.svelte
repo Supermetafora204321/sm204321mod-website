@@ -48,7 +48,7 @@
 
     <main>
         <!-- UPDATE THIS WHEN MAKING CONTENT CHANGES -->
-        <p><i>Updated July, 18th 2024 AEST</i></p>
+        <p><i>Updated June, 6th 2025 AEST</i></p>
 
         <!-- some things are intentionally not formatted as they are in the HTML file on the website -->
         <p>
@@ -232,6 +232,10 @@
             We will place banners on the website when changes are made, they
             will only last for about 7 days, then they are removed.
         </p>
+
+        <h2>Live Services/Events</h2>
+        <p>As Snail IDE has a prominent event in the community, temporary changes may be made. For example a "live event." Live events are virtual events, players can choose to join
+        into a multiplayer room to partcipate in some sort of minigame or possibly other things. Anyone who attempts to leak the full event could face serious punishment, however little bits won't be as important as these may be easier to find. </p>
 
         <h2>Contact</h2>
 
